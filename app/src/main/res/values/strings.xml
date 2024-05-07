@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVM</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="username_is_empty">Username is empty</string>
+    <string name="password_is_empty">Password is empty</string>
+    <string name="username_min_length_error">Username is too short</string>
+    <string name="username_max_length_error">Username is to long</string>
+    <string name="password_not_acceptable">Password is not applicable</string>
+</resources>
